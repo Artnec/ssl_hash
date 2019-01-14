@@ -17,5 +17,7 @@ How to use test:
 ```
 ./test algo_name start_len end_len
 
-./test sha256 100 500   will create file filled with 100 random characters, run openssl and mine sha256 implementations on it, and compare resulting hashes. Then do the same with files of size 101, 102, 103, up to 501.
+./test sha256 100 500   will create file filled with 100 random characters,
+                        run openssl and mine sha256 implementations on it, and compare resulting hashes.
+                        Then do the same with files of size 101, 102, 103, up to 501.
 ```
