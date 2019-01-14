@@ -1,6 +1,6 @@
 # ssl_hash
 
-implementation of md5, whirlpool, sha224, sha256, sha384, sha512, sha512/224, sha512/256 hashing functions, with interface similar to openssl.
+implementation of md5, whirlpool, sha224, sha256, sha384, sha512, sha512/224, sha512/256 [hashing functions](https://en.wikipedia.org/wiki/Hash_function), with interface similar to openssl.
 
 How to use ssl_hash:
 ```
